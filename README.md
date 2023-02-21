@@ -16,4 +16,6 @@ pnpm add vue@next typescript less -D -w
 
 根目录 执行 npx tsc --init，自动生成 ts 的配置文件 tsconfig.json
 
-play 目录下 安装插件 pnpm add vite @vitejs/plugin-vue -D -w
+安装插件 pnpm add vite @vitejs/plugin-vue -D -w
+
+pnpm add unplugin-vue-define-options -D -w
