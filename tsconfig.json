@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./" /* Specify the base directory to resolve non-relative module names. */,
+    "jsx": "preserve" /* Specify what JSX code is generated. */,
+    "strict": true /* Enable all strict type-checking options. */,
+    "target": "es2015" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
+    "module": "ESNext" /* Specify what module code is generated. */,
+    "skipLibCheck": true /* Skip type checking all .d.ts files. */,
+    "esModuleInterop": true /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables 'allowSyntheticDefaultImports' for type compatibility. */,
+    "moduleResolution": "node" /* Specify how TypeScript looks up a file from a given module specifier. */,
+    "lib": [
+      "esnext",
+      "dom"
+    ] /* Specify a set of bundled library declaration files that describe the target runtime environment. */
+  }
+}
