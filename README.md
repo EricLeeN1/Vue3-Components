@@ -19,3 +19,13 @@ pnpm add vue@next typescript less -D -w
 安装插件 pnpm add vite @vitejs/plugin-vue -D -w
 
 pnpm add unplugin-vue-define-options -D -w
+
+pnpm add vite-plugin-dts@1.4.1 -D -w
+
+vite build 打包
+
+前端流程化控制工具 gulp 的使用
+
+npm install --global gulp-cli
+
+pnpm add @types/node -D -w
