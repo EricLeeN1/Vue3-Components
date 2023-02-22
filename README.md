@@ -29,3 +29,5 @@ vite build 打包
 npm install --global gulp-cli
 
 pnpm add @types/node -D -w
+
+pnpm add release-it -D -w
