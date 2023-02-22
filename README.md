@@ -31,3 +31,7 @@ npm install --global gulp-cli
 pnpm add @types/node -D -w
 
 pnpm add release-it -D -w
+
+npm config set registry https://registry.npm.taobao.org
+
+npm config set registry https://registry.npmjs.org/
