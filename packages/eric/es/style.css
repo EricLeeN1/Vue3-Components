@@ -1,4 +1,6 @@
-.ea-button {
+.ea-icon {
+  color: red;
+}.ea-button {
   display: inline-block;
   line-height: 1;
   white-space: nowrap;
@@ -27,6 +29,4 @@
   background: #66b1ff;
   border-color: #66b1ff;
   color: #fff;
-}.ea-icon {
-  color: red;
 }
